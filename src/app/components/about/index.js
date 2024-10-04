@@ -187,7 +187,8 @@ export const About = () => {
                                         </li>
                                         <li>
                                             <strong>Website:</strong>
-                                            <span>www.mahimasharma12.com</span>
+                                            <span><a href="https://portfolio-r0oc9mki9-mahimas-projects-0c418716.vercel.app/" target="_blank"
+                                                     rel="noreferrer">www.mahimasharma.com</a></span>
                                         </li>
                                         <li>
                                             <strong>Email:</strong>
