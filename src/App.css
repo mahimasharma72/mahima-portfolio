@@ -1,0 +1,67 @@
+/*@media only screen and (max-width: 991px) {*/
+/*    !*.s_c {*!*/
+/*    !*    padding-top: 40px;*!*/
+/*    !*}*!*/
+/*}*/
+
+/*.page-enter {*/
+/*    transform: translateY(100%);*/
+/*}*/
+
+/*.page-enter-active {*/
+/*    transform: translateY(0%);*/
+/*    transition: all 400ms ease-out;*/
+/*}*/
+html, .smoothScroll {
+    scroll-behavior: smooth;
+}
+
+#main-nav-wrap {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 1s ease-in-out;
+}
+
+#main-nav-wrap.open {
+    max-height: 1000px; /* Adjust to a reasonable height depending on your content */
+}
+
+#main-nav-wrap.closed {
+    max-height: 0;
+}
+
+.menu-toggle {
+    cursor: pointer;
+}
+
+.menu-toggle.is-clicked span {
+    /* You can add styles here to change how the menu toggle button looks when clicked */
+}
+
+/*.page-exit {*/
+/*    transform: translateY(0%);*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*    right: 0;*/
+/*    top: 0;*/
+/*}*/
+
+/*.page-exit-active {*/
+/*    position: absolute;*/
+/*    left: 0;*/
+/*    right: 0;*/
+/*    top: 0;*/
+/*    transform: translateY(-130%);*/
+/*    transition: all 400ms ease-out;*/
+/*}*/
+
+/*@media (min-width: 1400px) {*/
+/*    .container,*/
+/*    .container-lg,*/
+/*    .container-md,*/
+/*    .container-sm,*/
+/*    .container-xl,*/
+/*    .container-xxl {*/
+/*        max-width: 1140px;*/
+/*    }*/
+/*}*/
