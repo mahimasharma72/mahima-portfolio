@@ -445,7 +445,7 @@ export const About = () => {
                                         </div>
 
 
-                                        <div id="modal-01" className="popup-modal slider mfp-hide">
+                                        <div id="modal-0F1" className="popup-modal slider mfp-hide">
 
                                             <div className="media">
                                                 <img src="/images/portfolio/modals/m-liberty.jpg" alt=""/>
@@ -949,8 +949,7 @@ export const About = () => {
 
                                     <h5>Call Me At</h5>
 
-                                    <p>Phone: (+91) 9817839540<br/>
-                                    </p>
+                                    <p>Phone: <a href="tel:+919817839540">(+91) 9817839540</a><br/></p>
 
                                 </div>
 
