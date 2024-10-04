@@ -12,17 +12,18 @@ const introdata = {
         third: "Passionate about creating web experiences.",
         forth: "Let's build something amazing together!"
     },
-    description: "Experienced Full Stack Developer with over 3 years of expertise in creating scalable and user-friendly web\n" +
-        "applications. Proficient in crafting visually appealing user interfaces, enhancing code quality, and managing\n" +
-        "server-side logic and databases. Proven track record of delivering high-quality software solutions tailored to\n" +
-        "client and stakeholder needs, while staying updated with industry best practices.",
-    shortDescription: "Full Stack Developer with 2.5+ years of experience building scalable, user-friendly web applications. Skilled in front-end, back-end, server-side logic, and delivering tailored software solutions.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Well-qualified Full Stack Developer familiar with wide range of programming utilities and languages.\n" +
+        "Knowledgeable of back-end and front-end development requirements.\n" +
+        "Handles any part of process with ease. Collaborative team player with excellent technical abilities offering 2+ years of related experience.\n" +
+        "Talented Software Development leader experienced in producing and updating software systems. Optimizes structures and processes to accomplish customer targets and promote company loyalty.\n" +
+        "Expert in diverse programming languages.",
+    shortDescription: "Full Stack Developer with 2.3+ years of experience building scalable, user-friendly web applications. Skilled in front-end, back-end, server-side logic, and delivering tailored software solutions.",
+    your_img_url: "https://images.unsplash.com/photo-1508199781291-ae159749e661",
     experience: "<strong>1.</strong> Developed scalable, user-friendly web applications with technologies such as ReactJS, Node.js, and Next.js.\n" +
         "<br/>" +
         "<strong>2.</strong> Managed both frontend and backend development for complex systems, including student management, real-time communication, and assessment platforms.\n" +
         "<br/>" +
-        "<strong>3.</strong> Led API development and optimized database operations for high-performance web applications, ensuring seamless functionality.\n" +
+        "<strong>3.</strong> Lead API development and optimized database operations for high-performance web applications, ensuring seamless functionality.\n" +
         "<br/>" +
         "<strong>4.</strong> Designed and implemented responsive interfaces using React and TypeScript, ensuring a smooth and user-friendly experience across all devices.\n" +
         "<br/>" +
@@ -88,10 +89,6 @@ const skills = [
     {
         name: "MongoDB",
         value: 75,
-    },
-    {
-        name: "Adobe Workfront",
-        value: 80,
     },
 ];
 

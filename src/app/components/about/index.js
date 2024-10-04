@@ -109,7 +109,7 @@ export const About = () => {
                             <div className="intro-content">
                                 <div className="row">
                                     <div className="col-twelve">
-                                        <h1>I'm Ayush Mathur</h1>
+                                        <h1>I'm Mahima</h1>
                                         <Typewriter
                                             options={{
                                                 strings: [
@@ -137,10 +137,10 @@ export const About = () => {
                             </div>
 
                             <ul className="intro-social">
-                             <li><a href="https://www.linkedin.com/in/ayush-mathur-658428197/"
+                                <li><a href="https://www.linkedin.com/in/mahimasharma16/"
                                        target={"_blank"} rel="noreferrer"><i className="fa fa-linkedin"></i></a>
                                 </li>
-                                <li><a href="https://www.hackerrank.com/profile/ayushmathur919"
+                                <li><a href="https://github.com/mahimasharma72"
                                        target={"_blank"} rel="noreferrer"><i className="fa fa-code"></i></a>
                                 </li>
                             </ul>
@@ -175,11 +175,11 @@ export const About = () => {
                                     <ul className="info-list">
                                         <li>
                                             <strong>Full Name:</strong>
-                                            <span>Ayush Mathur</span>
+                                            <span>Mahima Sharma</span>
                                         </li>
                                         <li>
                                             <strong>Birth Date:</strong>
-                                            <span>December 02, 2000</span>
+                                            <span>May 12, 2000</span>
                                         </li>
                                         <li>
                                             <strong>Job:</strong>
@@ -187,12 +187,12 @@ export const About = () => {
                                         </li>
                                         <li>
                                             <strong>Website:</strong>
-                                            <span>www.ayushmathur.com</span>
+                                            <span>www.mahimasharma12.com</span>
                                         </li>
                                         <li>
                                             <strong>Email:</strong>
-                                            <span>ayushmathur919@gmail.com {"\n"}<br/> </span><span
-                                            style={{paddingTop: '5px'}}>mathurayush82@gmail.com</span>
+                                            <span><a href="mailto:mahimasharmaynr2000@gmail.com">mahimasharmaynr2000@gmail.com</a> </span>
+
                                         </li>
 
                                     </ul>
@@ -249,12 +249,6 @@ export const About = () => {
                                             <div className="progress percent80"><span>80%</span></div>
                                             <strong>Postgres</strong>
                                         </li>
-                                        <li>
-                                            <div className="progress percent90"><span>90%</span></div>
-                                            <strong>Adobe WorkFront</strong>
-                                        </li>
-
-
                                     </ul>
 
                                 </div>
@@ -265,7 +259,7 @@ export const About = () => {
                                 <div className="col-twelve">
                                     <a href="#contact" title="Hire Me" className="button stroke smoothScroll">Hire
                                         Me</a>
-                                    <a href="/Ayush_Mathur.pdf" download="Ayush_Mathur_Resume.pdf" title="Download CV"
+                                    <a href="/mahima_resume.pdf" download="mahima_resume.pdf" title="Download CV"
                                        className="button button-primary">Download CV</a>
                                 </div>
                             </div>
@@ -303,7 +297,7 @@ export const About = () => {
 
                                             <div className="timeline-header">
                                                 <h3>Full Stack Developer</h3>
-                                                <p>June 2022 - Present</p>
+                                                <p>July 2022 - Present</p>
                                             </div>
 
                                             <div className="timeline-content">
@@ -339,15 +333,16 @@ export const About = () => {
                                             </div>
 
                                             <div className="timeline-header">
-                                                <h3>Bachelor Degree</h3>
-                                                <p>July 2018 - May 2022</p>
+                                                <h3>Masters Degree</h3>
+                                                <p>July 2022 - May 2022</p>
                                             </div>
 
                                             <div className="timeline-content">
-                                                <h4>B. Tech in Information Technology</h4>
-                                                <p style={{color: "black"}}>AP J Abdul Kalam University, B. N. College
-                                                    of Engineering and Technology
-                                                    Graduated with an 8.3 CGPA, acquiring a strong foundation in
+                                                <h4>Master of Computer Applications</h4>
+                                                <p style={{color: "black"}}>Kurukshetra University, University Institute
+                                                    Of
+                                                    Engineering and Technology,
+                                                    Post Graduated with 79%, acquiring a strong foundation in
                                                     software development, database management, and IT systems.</p>
                                             </div>
 
@@ -379,22 +374,24 @@ export const About = () => {
 
                                     <div id="folio-wrapper" className="block-1-2 block-mob-full stack">
 
+
                                         <div className="bgrid folio-item">
                                             <div className="item-wrap">
-                                                <img src="/images/portfolio/gold.jpg" alt="Liberty"/>
-                                                <a href="https://www.mmtcpamp.com/" className="overlay"
+                                                <img src="/images/portfolio/foodies.jpg" alt="Shutterbug"/>
+                                                <a href="https://beta.foodiesonly.in/" className="overlay"
                                                    target={"_blank"} rel="noreferrer">
                                                     <div className="folio-item-table">
                                                         <div className="folio-item-cell">
-                                                            <h3 className="folio-title">MMTC PAMP</h3>
+                                                            <h3 className="folio-title">Foodies Only</h3>
                                                             <span className="folio-types">
-		     					       	  Front-End Developer
-		     					       </span>
+		     					       	  Full-Stack Developer
+		     					      </span>
                                                         </div>
                                                     </div>
                                                 </a>
                                             </div>
                                         </div>
+
 
                                         <div className="bgrid folio-item">
                                             <div className="item-wrap">
@@ -416,11 +413,11 @@ export const About = () => {
                                         <div className="bgrid folio-item">
                                             <div className="item-wrap">
                                                 <img src="/images/portfolio/tourism.jpg" alt="Clouds"/>
-                                                <a href="https://rsth.info/" className="overlay" target={"_blank"}
+                                                <a href="https://www.itinker.io/" className="overlay" target={"_blank"}
                                                    rel="noreferrer">
                                                     <div className="folio-item-table">
                                                         <div className="folio-item-cell">
-                                                            <h3 className="folio-title">MOT</h3>
+                                                            <h3 className="folio-title">iTinker Website</h3>
                                                             <span className="folio-types">
 		     					       	  Front-End Developer
 		     					      </span>
@@ -432,15 +429,15 @@ export const About = () => {
 
                                         <div className="bgrid folio-item">
                                             <div className="item-wrap">
-                                                <img src="/images/portfolio/basmati.jpg" alt="Beetle"/>
-                                                <a href="https://master.d31ijq6kxmo9cl.amplifyapp.com/login"
-                                                   className="overlay" target={"_blank"} rel="noreferrer">
+                                                <img src="/images/portfolio/gold.jpg" alt="Liberty"/>
+                                                <a href="https://www.mmtcpamp.com/" className="overlay"
+                                                   target={"_blank"} rel="noreferrer">
                                                     <div className="folio-item-table">
                                                         <div className="folio-item-cell">
-                                                            <h3 className="folio-title">Nano Basmati</h3>
+                                                            <h3 className="folio-title">MMTC PAMP</h3>
                                                             <span className="folio-types">
 		     					       	  Front-End Developer
-		     					                      </span>
+		     					       </span>
                                                         </div>
                                                     </div>
                                                 </a>
@@ -754,7 +751,7 @@ export const About = () => {
                                             </div>
 
                                             <h3 className="stat-count">
-                                                6
+                                                4+
                                             </h3>
 
                                             <h5 className="stat-title">
@@ -770,7 +767,7 @@ export const About = () => {
                                             </div>
 
                                             <h3 className="stat-count">
-                                                4
+                                                2+
                                             </h3>
 
                                             <h5 className="stat-title">
@@ -802,7 +799,7 @@ export const About = () => {
                                             </div>
 
                                             <h3 className="stat-count">
-                                                7200
+                                                7200+
                                             </h3>
 
                                             <h5 className="stat-title">
@@ -828,10 +825,12 @@ export const About = () => {
                                     <h1>I'd Love To Hear From You.</h1>
 
                                     <p className="lead">
-                                        Feel free to reach out at <b>ayushmathur919@gmail.com'</b>! Whether you have a
-                                        project in mind, need advice, or just
-                                        want to connect, I’m always open to new opportunities and collaborations. Let’s
-                                        discuss how I can help bring your ideas to life.</p>
+                                        Feel free to reach out at <b>
+                                        <a href="mailto:mahimasharmaynr2000@gmail.com">mahimasharmaynr2000@gmail.com</a>
+                                    </b>! Whether you have a project in mind, need advice, or just want to connect, I’m
+                                        always open to new opportunities
+                                        and collaborations. Let’s discuss how I can help bring your ideas to life.
+                                    </p>
 
                                 </div>
                             </div>
@@ -923,8 +922,8 @@ export const About = () => {
                                     <h5>Where to find me</h5>
 
                                     <p>
-                                        Aero city block-C<br/>
-                                        Chandigarh<br/>
+                                        CP-67, Sector 67<br/>
+                                        Mohali<br/>
                                         160055 INDIA
                                     </p>
 
@@ -938,9 +937,7 @@ export const About = () => {
 
                                     <h5>Email Me At</h5>
 
-                                    <p>ayushmathur919@gmail.com<br/>
-                                        mathurayush82@gmail.com
-                                    </p>
+                                    <p><a href="mailto:mahimasharmaynr2000@gmail.com">mahimasharmaynr2000@gmail.com</a></p>
 
                                 </div>
 
@@ -952,7 +949,7 @@ export const About = () => {
 
                                     <h5>Call Me At</h5>
 
-                                    <p>Phone: (+91) 6393199037<br/>
+                                    <p>Phone: (+91) 9817839540<br/>
                                     </p>
 
                                 </div>
@@ -968,10 +965,10 @@ export const About = () => {
                                 <div className=" tab-full pull-right social">
 
                                     <ul className="footer-social pt-5">
-                                        <li><a href="https://www.linkedin.com/in/ayush-mathur-658428197/"
+                                        <li><a href="https://www.linkedin.com/in/mahimasharma16/"
                                                target={"_blank"} rel="noreferrer"><i className="fa fa-linkedin"></i></a>
                                         </li>
-                                        <li><a href="https://www.hackerrank.com/profile/ayushmathur919"
+                                        <li><a href="https://github.com/mahimasharma72"
                                                target={"_blank"} rel="noreferrer"><i className="fa fa-code"></i></a>
                                         </li>
                                     </ul>
