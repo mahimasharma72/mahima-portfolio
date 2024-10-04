@@ -5,7 +5,7 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m Ayush Mathur",
+    title: "I’m Mahima Sharma",
     animated: {
         first: "The Full Stack Developer",
         second: "Skilled in Frontend and Backend development.",
@@ -38,7 +38,7 @@ const introdata = {
 
 const dataabout = {
     title: "Bit about my self",
-    aboutme: "Hi, I'm Ayush Mathur, a Full Stack Developer with a passion for crafting seamless web experiences. I specialize in creating visually stunning interfaces and robust server-side solutions, combining expertise in both frontend and backend development. I'm dedicated to innovation and collaboration, always eager to bring your digital ideas to life. Let's create something amazing together!",
+    aboutme: "Hi, I'm Mahima Sharma, a Full Stack Developer with a passion for crafting seamless web experiences. I specialize in creating visually stunning interfaces and robust server-side solutions, combining expertise in both frontend and backend development. I'm dedicated to innovation and collaboration, always eager to bring your digital ideas to life. Let's create something amazing together!",
 };
 const worktimeline = [{
     jobtitle: "Designer of week",
@@ -170,8 +170,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "ayushmathur919@gmail.com",
-    YOUR_FONE: "+91 6393199037",
+    YOUR_EMAIL: "mahimasharmaynr2000@gmail.com",
+    YOUR_FONE: "+91 9817839540",
     description: "I specialize in creating visually stunning interfaces and robust server-side solutions. I'm dedicated to innovation and collaboration, always eager to bring your digital ideas to life. Let's create something amazing together!",
     YOUR_SERVICE_ID: "service_id",
     YOUR_TEMPLATE_ID: "template_id",
@@ -179,9 +179,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com/Ayush919",
-    hackerRank: "https://www.hackerrank.com/ayushmathur919?hr_r=1",
-    linkedin: "https://www.linkedin.com/in/ayush-mathur-658428197/",
+    github: "https://github.com/mahimasharma72",
+    hackerRank: "https://www.hackerrank.com/mahimasharma72?hr_r=1",
+    linkedin: "https://www.linkedin.com/in/mahima16/",
     twitter: "https://twitter.com",
 };
 export {
