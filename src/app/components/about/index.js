@@ -187,12 +187,18 @@ export const About = () => {
                                         </li>
                                         <li>
                                             <strong>Website:</strong>
-                                            <span><a href="https://portfolio-git-master-mahimas-projects-0c418716.vercel.app/" target="_blank"
-                                                     rel="noreferrer">www.mahimasharma.com</a></span>
+                                            <span><a
+                                                href="https://portfolio-git-master-mahimas-projects-0c418716.vercel.app/"
+                                                target="_blank"
+                                                rel="noreferrer">www.mahimasharma.com</a></span>
                                         </li>
                                         <li>
                                             <strong>Email:</strong>
-                                            <span><a href="mailto:mahimasharmaynr2000@gmail.com">mahimasharmaynr2000@gmail.com</a> </span>
+                                            <span><a style={{
+                                                color: "inherit",
+                                                textDecoration: "none",
+                                            }}
+                                                     href="mailto:mahimasharmaynr2000@gmail.com">mahimasharmaynr2000@gmail.com</a> </span>
 
                                         </li>
 
@@ -335,7 +341,7 @@ export const About = () => {
 
                                             <div className="timeline-header">
                                                 <h3>Masters Degree</h3>
-                                                <p>July 2022 - May 2022</p>
+                                                <p>July 2020 - May 2022</p>
                                             </div>
 
                                             <div className="timeline-content">
@@ -827,7 +833,12 @@ export const About = () => {
 
                                     <p className="lead">
                                         Feel free to reach out at <b>
-                                        <a href="mailto:mahimasharmaynr2000@gmail.com">mahimasharmaynr2000@gmail.com</a>
+                                        <a
+                                            style={{
+                                                color: "inherit",
+                                                textDecoration: "none",
+                                            }}
+                                            href="mailto:mahimasharmaynr2000@gmail.com">mahimasharmaynr2000@gmail.com</a>
                                     </b>! Whether you have a project in mind, need advice, or just want to connect, I’m
                                         always open to new opportunities
                                         and collaborations. Let’s discuss how I can help bring your ideas to life.
@@ -938,7 +949,18 @@ export const About = () => {
 
                                     <h5>Email Me At</h5>
 
-                                    <p><a href="mailto:mahimasharmaynr2000@gmail.com">mahimasharmaynr2000@gmail.com</a></p>
+                                    <p>
+                                        <a
+                                            href="mailto:mahimasharmaynr2000@gmail.com"
+                                            style={{
+                                                color: "inherit",  // Inherit the color from the parent
+                                                textDecoration: "none",  // Remove the underline
+                                            }}
+                                        >
+                                            mahimasharmaynr2000@gmail.com
+                                        </a>
+                                    </p>
+
 
                                 </div>
 
@@ -950,7 +972,10 @@ export const About = () => {
 
                                     <h5>Call Me At</h5>
 
-                                    <p>Phone: <a href="tel:+919817839540">(+91) 9817839540</a><br/></p>
+                                    <p>Phone: <a style={{
+                                        color: "inherit",  // Inherit the color from the parent
+                                        textDecoration: "none",  // Remove the underline
+                                    }} href="tel:+919817839540">(+91) 9817839540</a><br/></p>
 
                                 </div>
 
