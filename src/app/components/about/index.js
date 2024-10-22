@@ -385,7 +385,7 @@ export const About = () => {
                                         <div className="bgrid folio-item">
                                             <div className="item-wrap">
                                                 <img src="/images/portfolio/foodies.jpg" alt="Shutterbug"/>
-                                                <a href="https://beta.foodiesonly.in/" className="overlay"
+                                                <a href="https://app.stage.foodiesonly.in/" className="overlay"
                                                    target={"_blank"} rel="noreferrer">
                                                     <div className="folio-item-table">
                                                         <div className="folio-item-cell">
